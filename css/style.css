@@ -3,7 +3,8 @@ html {
 }
 
 @font-face {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Righteous-Regular;
+    src: url(/fonts/Righteous-Regular.ttf);
 }
 
 nav li {
@@ -17,6 +18,7 @@ nav a {
     text-decoration: none;
     font-size: large;
     text-align: center;
+    font-family: Righteous-Regular;
 }
 
 a {
@@ -25,14 +27,23 @@ a {
     text-decoration: none;
     font-size: large;
     text-align: center;
+    font-family: Righteous-Regular;
 }
 
 h1 {
     font-size: xx-large;
     text-align: center;
+    font-family: Righteous-Regular;
+}
+
+p {
+    font-size: 14px;
+    text-align: center;
+    font-family: Righteous-Regular;
 }
 
 center-div {
     width: 100%;
     text-align: center;
+    font-family: Righteous-Regular;
 }
